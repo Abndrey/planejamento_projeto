@@ -1,0 +1,28 @@
+O app permitirá que o dono do pet agende consultas veterinárias,
+ check-ups e outros serviços,
+como banhos ou tosas.
+	
+Permite que os donos agendem também vacinas, 
+exames e até consultas de emergência.
+
+O app enviará notificações lembrando o dono de compromissos importantes, como consultas, 
+datas de vacinação,
+e até quando é hora de renovar algum medicamento.
+
+As notificações podem ser personalizadas, 
+com alertas para os intervalos das vacinas ou para tratamentos contínuos.
+
+
+O app terá um histórico de vacinas do pet, com datas de quando as vacinas foram tomadas e quais ainda precisam ser aplicadas. 
+Isso ajudará o dono a não esquecer nenhuma vacina.
+
+ O usuário fará o cadastro do pet atravez do número dos CNAD (Cadstro Naconal de Animais Domésticos)
+
+O processo de entrada no app será feito por meio de uma verificação inicial, onde o pet
+ será levado a um pet-shop licenciado para realizar um check-up completo.
+
+Esse check-up pode servir para validar a saúde do pet antes de começar a usar o app e 
+garantir que ele esteja em boas condições. Essa verificação pode ser registrada no sistema, 
+permitindo que o pet tenha acesso a todos os serviços do app.
+
+Os check-ups só serão feitos somente em instituições parceiras.
